@@ -14,6 +14,6 @@ A comprehensive solution for managing student enrollment waitlists.
 
 ## Installation
 ```bash
-git clone https://github.com/[your-username]/university-waiting-list.git
+git clone https://github.com/Tinyu01/university-waiting-list.git
 cd university-waiting-list
 mvn package
